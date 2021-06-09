@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bank Marketing Analysis & Prediction
 
 ### Os dados contidos neste Dataset referem-se a campanhas de Marketing realizadas por uma instituição Financeira de Portugal, cujo foram totalmente realizadas em chamadas telefônicas para potenciais clientes, afim de convencê-los à abrir uma conta na instituição.
@@ -12,8 +12,8 @@
 -----------------------------------------------------
 # Descrição do DataSet
 
-| Column    | Description                   ||||
-|---        |---                            |---|---|---                                         | 
+| Column    | Description                   |
+|---        |---                            |                                     
 |age        |Idade                          |
 |job        |Ocupação                       |     
 |marital    |Estado Civil                   |
@@ -32,10 +32,3 @@
 |poutcome   |Possui casa própria?           |
 |deposit    |Abriu uma conta?               |
 ------------------------------------------------------
-
-
-
-=======
-# machine_learning
-Machine Learning with Scikit Learn
->>>>>>> 93922223f6c31cfc2b4e631307b0858d70cac701

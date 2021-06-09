@@ -1,10 +1,10 @@
 
 # Bank Marketing Analysis & Prediction
 
-### Os dados contidos neste Dataset referem-se a campanhas de Marketing realizadas por uma instituição Financeira de Portugal, cujo foram totalmente realizadas em chamadas telefônicas para potenciais clientes, afim de convencê-los à abrir uma conta na instituição.
-### Nosso principal objetivo é analisar e predizer com base nos dados dos clientes se eles abrirão uma conta na mesma.
+#### Os dados contidos neste Dataset referem-se a campanhas de Marketing realizadas por uma instituição Financeira de Portugal, cujo foram totalmente realizadas em chamadas telefônicas para potenciais clientes, afim de convencê-los à abrir uma conta na instituição.
+#### Nosso principal objetivo é analisar e predizer com base nos dados dos clientes se eles abrirão uma conta na mesma.
 -------------------------------------------------------
-### Para isso dividiremos nossa Predição em 2 etapas:
+#### Para isso dividirei o Trabalho em 2 etapas:
 
 >Etapa 1: Analisar e extrair Informações sobre os potenciais clientes que abriram conta na instituição financeira após a campanha de marketing 
 

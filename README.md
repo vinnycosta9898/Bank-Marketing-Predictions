@@ -8,7 +8,7 @@
 
 >Etapa 1: Analisar e extrair Informações sobre os potenciais clientes que abriram conta na instituição financeira após a campanha de marketing 
 
->Etapa 2: Através dos dados dos clientes realizar um pré processamento no DataSet e treinar modelos de machine learning para tentar predizer no futuro quais clientes abriram uma conta na instituição com base em suas caracteristicas.
+>Etapa 2: Através dos dados dos clientes realizar um pré processamento no DataSet e aplicar modelos matemáticos para tentar predizer quais clientes abriram uma conta na instituição com base em suas caracteristicas.
 -----------------------------------------------------
 # Descrição do DataSet
 
